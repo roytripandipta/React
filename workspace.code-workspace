@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\todoProject\\dailyNotes"
+		},
+		{
+			"path": "..\\..\\..\\web development\\webdevelopment"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webdevelopment"
+	}
+}
